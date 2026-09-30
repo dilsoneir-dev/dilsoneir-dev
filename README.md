@@ -8,7 +8,7 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 
 - Séries temporais e previsão de consumo de energia (Holt-Winters, Gradient Boosting, LSTM)
 - Análise econômica da migração para o mercado livre de energia
-- Análise exploratória de dados e BI com Python (programa SCTECH / SENAI)
+- Análise exploratória de dados e BI com Python (programa SCTEC / SENAI)
 
 
 ## Projetos em destaque
