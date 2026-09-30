@@ -8,7 +8,8 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 
 - Séries temporais e previsão de consumo de energia (Holt-Winters, Gradient Boosting, LSTM)
 - Análise econômica da migração para o mercado livre de energia
-- Análise exploratória de dados e BI com Python (programa SCTEC / SENAI)
+- Análise exploratória de dados e BI com Python e SQL (programa SCTEC / SENAI)
+- Degradação de baterias de íon de lítio: projeção de saúde por regressão linear e modelo 3D de estresse
 
 
 ## Projetos em destaque
@@ -16,8 +17,8 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 | Projeto | O que é |
 |---|---|
 | [Mercado_Energia_B3_Celesc](https://github.com/dilsoneir-dev/Mercado_Energia_B3_Celesc) | Projeção de consumo do subgrupo B3 da CELESC até 2030 e simulação da vantajosidade de migrar para o mercado livre. Jupyter, TensorFlow, statsmodels. |
-| [battery-health-predictor](https://github.com/dilsoneir-dev/battery-health-predictor) | Diagnóstico e projeção da degradação da bateria de um notebook a partir do relatório do Windows. Python, scikit-learn. |
-| [Projeto-avaliativo-modulo1-SCTEC) | Análise de Recursos Humanos — Base HR (FreeSQL). |
+| [battery-health-predictor](https://github.com/dilsoneir-dev/battery-health-predictor) | Diagnóstico e projeção da degradação da bateria de um notebook a partir do relatório do Windows: regressão linear da capacidade e modelo 3D de estresse. Python, scikit-learn. |
+| [projeto-avaliativo-modulo1-sctec](https://github.com/dilsoneir-dev/projeto-avaliativo-modulo1-sctec) | Análise exploratória de Recursos Humanos (base HR, FreeSQL): consultas SQL Oracle com JOINs, pandas e matplotlib, em notebook Jupyter. SCTEC / SENAI. |
 | [Miniprojeto_DilsoneiRigotti_T3](https://github.com/dilsoneir-dev/Miniprojeto_DilsoneiRigotti_T3) | Análise exploratória de dados de varejo com Python e pandas. |
 
 ## Ferramentas
