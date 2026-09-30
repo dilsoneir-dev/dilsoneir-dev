@@ -17,6 +17,7 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 |---|---|
 | [Mercado_Energia_B3_Celesc](https://github.com/dilsoneir-dev/Mercado_Energia_B3_Celesc) | Projeção de consumo do subgrupo B3 da CELESC até 2030 e simulação da vantajosidade de migrar para o mercado livre. Jupyter, TensorFlow, statsmodels. |
 | [battery-health-predictor](https://github.com/dilsoneir-dev/battery-health-predictor) | Diagnóstico e projeção da degradação da bateria de um notebook a partir do relatório do Windows. Python, scikit-learn. |
+| [Projeto-avaliativo-modulo1-SCTEC) | Análise de Recursos Humanos — Base HR (FreeSQL). |
 | [Miniprojeto_DilsoneiRigotti_T3](https://github.com/dilsoneir-dev/Miniprojeto_DilsoneiRigotti_T3) | Análise exploratória de dados de varejo com Python e pandas. |
 
 ## Ferramentas
