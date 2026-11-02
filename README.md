@@ -1,6 +1,6 @@
 # Dilsonei Rigotti
 
-Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em energia solar fotovoltaica, telecomunicações e gestão de projetos multidisciplinares (PMI e BIM). Mestrando em Sistemas de Energia Elétrica (MPSEE/IFSC) e professor de Engenharia Elétrica, hoje aplicando ciência de dados e aprendizado de máquina a problemas de potência e energia.
+Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em energia solar fotovoltaica, telecomunicações e gestão de projetos multidisciplinares (PMI e BIM). Mestrando em Sistemas de Energia Elétrica (MPSEE/IFSC), com pesquisa na linha de Mercados de Energia, e professor de Engenharia Elétrica, hoje aplicando ciência de dados e aprendizado de máquina a problemas de potência e energia.
 
 📍 Santa Catarina, Brasil · 💼 [LinkedIn](https://www.linkedin.com/in/dilsonei)
 
@@ -18,6 +18,7 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 | Projeto | O que é |
 |---|---|
 | [Mercado_Energia_B3_Celesc](https://github.com/dilsoneir-dev/Mercado_Energia_B3_Celesc) | Projeção de consumo do subgrupo B3 da CELESC até 2030 e simulação da vantajosidade de migrar para o mercado livre. Jupyter, TensorFlow, statsmodels. |
+| [Medicao-e-Verificacao-retrofit-regressao](https://github.com/dilsoneir-dev/Medicao-e-Verificacao-retrofit-regressao) | M&V de retrofit de eficiência energética (IPMVP Opção C): regressão linear múltipla da linha de base, economia evitada e ajuste não-rotineiro. Excel, Python, statsmodels. |
 | [alocacao-banco-capacitores-alimentador-radial](https://github.com/dilsoneir-dev/alocacao-banco-capacitores-alimentador-radial) | Alocação de 2 bancos de capacitores em alimentador radial de 13,8 kV: fluxo de potência pelo Método da Soma das Potências e busca exaustiva da melhor posição. Python, matplotlib. |
 | [battery-health-predictor](https://github.com/dilsoneir-dev/battery-health-predictor) | Diagnóstico e projeção da degradação da bateria de um notebook a partir do relatório do Windows: regressão linear da capacidade e modelo 3D de estresse. Python, scikit-learn. |
 | [projeto-avaliativo-modulo1-sctec](https://github.com/dilsoneir-dev/projeto-avaliativo-modulo1-sctec) | Análise exploratória de Recursos Humanos (base HR, FreeSQL): consultas SQL Oracle com JOINs, pandas e matplotlib, em notebook Jupyter. SCTEC / SENAI. |
@@ -39,7 +40,7 @@ Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em ene
 - Licenciado em Física, UFSC
 - Especialista em Ensino de Ciências, IFSC
 - MBA em Gestão e Engenharia de Sistemas Elétricos, IPOG
-- Mestrado Profissional em Sistemas de Energia Elétrica, IFSC (em andamento)
+- Mestrado Profissional em Sistemas de Energia Elétrica, IFSC, linha de pesquisa em Mercados de Energia (em andamento)
 
 ## Idiomas
 
