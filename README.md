@@ -1,6 +1,6 @@
 # Dilsonei Rigotti
 
-Engenheiro Eletricista e Eletrônico, com mais de 25 anos de experiência em energia solar fotovoltaica, telecomunicações e gestão de projetos multidisciplinares (PMI e BIM). Mestrando em Sistemas de Energia Elétrica (MPSEE/IFSC), com pesquisa na linha de Mercados de Energia, e professor de Engenharia Elétrica, com aplicação de ciência de dados, Inteligência de Negócios e aprendizado de máquina a problemas de potência e energia.
+Engenheiro Eletricista e Eletrônico, com mais de 35 anos de experiência em energia solar fotovoltaica, telecomunicações e gestão de projetos multidisciplinares (PMI e BIM). Mestrando em Sistemas de Energia Elétrica (MPSEE/IFSC), com pesquisa na linha de Mercados de Energia, e professor de Engenharia Elétrica, com aplicação de ciência de dados, Inteligência de Negócios e aprendizado de máquina a problemas de potência e energia.
 
 📍 Santa Catarina, Brasil · 💼 [LinkedIn](https://www.linkedin.com/in/dilsonei) · 🎓 [Lattes](https://lattes.cnpq.br/2214092074528899)
 
